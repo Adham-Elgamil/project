@@ -1,0 +1,35 @@
+*{
+    margin: 15px;
+}
+body{
+    background-color: black;
+    display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+}
+img{
+    width: 500px;
+    height: 500px;
+}
+button{
+    font-size: 40px;
+    padding: 10px;
+    background-color: blueviolet;
+    color: white;
+    border-radius: 10px;
+}
+a{
+    background-color: white;
+    padding: 20px;
+    font-size: 30px
+}
+.txt{
+    color: white;
+    font-size: 40px;
+}
+.txt2{
+    background-color: brown;
+    color: white;
+    display: none;
+}
